@@ -1,0 +1,3761 @@
+{
+  "playlists": [
+    {
+      "name": "emo time",
+      "lastModifiedDate": "2019-06-17",
+      "items": [
+        {
+          "track": {
+            "trackName": "Stay Frosty Royal Milk Tea",
+            "artistName": "Fall Out Boy",
+            "albumName": "MANIA"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Last Of The Real Ones",
+            "artistName": "Fall Out Boy",
+            "albumName": "MANIA"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "HOLD ME TIGHT OR DON’T",
+            "artistName": "Fall Out Boy",
+            "albumName": "MANIA"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Wilson (Expensive Mistakes)",
+            "artistName": "Fall Out Boy",
+            "albumName": "MANIA"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Church",
+            "artistName": "Fall Out Boy",
+            "albumName": "MANIA"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Heaven’s Gate",
+            "artistName": "Fall Out Boy",
+            "albumName": "MANIA"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Champion",
+            "artistName": "Fall Out Boy",
+            "albumName": "MANIA"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sunshine Riptide",
+            "artistName": "Fall Out Boy",
+            "albumName": "MANIA"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Young And Menace",
+            "artistName": "Fall Out Boy",
+            "albumName": "MANIA"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bishops Knife Trick",
+            "artistName": "Fall Out Boy",
+            "albumName": "MANIA"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Irresistible",
+            "artistName": "Fall Out Boy",
+            "albumName": "American Beauty/American Psycho"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "American Beauty/American Psycho",
+            "artistName": "Fall Out Boy",
+            "albumName": "American Beauty/American Psycho"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Centuries",
+            "artistName": "Fall Out Boy",
+            "albumName": "American Beauty/American Psycho"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Kids Aren't Alright",
+            "artistName": "Fall Out Boy",
+            "albumName": "American Beauty/American Psycho"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Uma Thurman",
+            "artistName": "Fall Out Boy",
+            "albumName": "American Beauty/American Psycho"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Jet Pack Blues",
+            "artistName": "Fall Out Boy",
+            "albumName": "American Beauty/American Psycho"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Novocaine",
+            "artistName": "Fall Out Boy",
+            "albumName": "American Beauty/American Psycho"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Fourth Of July",
+            "artistName": "Fall Out Boy",
+            "albumName": "American Beauty/American Psycho"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Favorite Record",
+            "artistName": "Fall Out Boy",
+            "albumName": "American Beauty/American Psycho"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Immortals",
+            "artistName": "Fall Out Boy",
+            "albumName": "American Beauty/American Psycho"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Twin Skeleton's (Hotel In NYC)",
+            "artistName": "Fall Out Boy",
+            "albumName": "American Beauty/American Psycho"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Phoenix",
+            "artistName": "Fall Out Boy",
+            "albumName": "Save Rock And Roll"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "My Songs Know What You Did In The Dark (Light Em Up)",
+            "artistName": "Fall Out Boy",
+            "albumName": "Save Rock And Roll"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Alone Together",
+            "artistName": "Fall Out Boy",
+            "albumName": "Save Rock And Roll"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Where Did The Party Go",
+            "artistName": "Fall Out Boy",
+            "albumName": "Save Rock And Roll"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Just One Yesterday",
+            "artistName": "Fall Out Boy",
+            "albumName": "Save Rock And Roll"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Mighty Fall",
+            "artistName": "Fall Out Boy",
+            "albumName": "Save Rock And Roll"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Miss Missing You",
+            "artistName": "Fall Out Boy",
+            "albumName": "Save Rock And Roll"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Death Valley",
+            "artistName": "Fall Out Boy",
+            "albumName": "Save Rock And Roll"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Young Volcanoes",
+            "artistName": "Fall Out Boy",
+            "albumName": "Save Rock And Roll"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Rat A Tat",
+            "artistName": "Fall Out Boy",
+            "albumName": "Save Rock And Roll"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Save Rock And Roll",
+            "artistName": "Fall Out Boy",
+            "albumName": "Save Rock And Roll"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Disloyal Order Of Water Buffaloes",
+            "artistName": "Fall Out Boy",
+            "albumName": "Folie à Deux"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Don't Care - Single Version",
+            "artistName": "Fall Out Boy",
+            "albumName": "Folie à Deux"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "She's My Winona",
+            "artistName": "Fall Out Boy",
+            "albumName": "Folie à Deux"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "America's Suitehearts",
+            "artistName": "Fall Out Boy",
+            "albumName": "Folie à Deux"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Headfirst Slide Into Cooperstown On A Bad Bet",
+            "artistName": "Fall Out Boy",
+            "albumName": "Folie à Deux"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The (Shipped) Gold Standard",
+            "artistName": "Fall Out Boy",
+            "albumName": "Folie à Deux"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "(Coffee's For Closers)",
+            "artistName": "Fall Out Boy",
+            "albumName": "Folie à Deux"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "What A Catch, Donnie",
+            "artistName": "Fall Out Boy",
+            "albumName": "Folie à Deux"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "27",
+            "artistName": "Fall Out Boy",
+            "albumName": "Folie à Deux"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tiffany Blews",
+            "artistName": "Fall Out Boy",
+            "albumName": "Folie à Deux"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "w.a.m.s.",
+            "artistName": "Fall Out Boy",
+            "albumName": "Folie à Deux"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "20 Dollar Nose Bleed",
+            "artistName": "Fall Out Boy",
+            "albumName": "Folie à Deux"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "West Coast Smoker",
+            "artistName": "Fall Out Boy",
+            "albumName": "Folie à Deux"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Thriller",
+            "artistName": "Fall Out Boy",
+            "albumName": "Infinity On High"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "\"The Take Over, The Breaks Over\"",
+            "artistName": "Fall Out Boy",
+            "albumName": "Infinity On High"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "This Ain't A Scene, It's An Arms Race",
+            "artistName": "Fall Out Boy",
+            "albumName": "Infinity On High"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I'm Like A Lawyer With The Way I'm Always Trying To Get You Off (Me & You)",
+            "artistName": "Fall Out Boy",
+            "albumName": "Infinity On High"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Hum Hallelujah",
+            "artistName": "Fall Out Boy",
+            "albumName": "Infinity On High"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Golden",
+            "artistName": "Fall Out Boy",
+            "albumName": "Infinity On High"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Thnks fr th Mmrs",
+            "artistName": "Fall Out Boy",
+            "albumName": "Infinity On High"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Don't You Know Who I Think I Am?",
+            "artistName": "Fall Out Boy",
+            "albumName": "Infinity On High"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The (After) Life Of The Party",
+            "artistName": "Fall Out Boy",
+            "albumName": "Infinity On High"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Carpal Tunnel Of Love",
+            "artistName": "Fall Out Boy",
+            "albumName": "Infinity On High"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bang The Doldrums",
+            "artistName": "Fall Out Boy",
+            "albumName": "Infinity On High"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Fame < Infamy",
+            "artistName": "Fall Out Boy",
+            "albumName": "Infinity On High"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "You're Crashing, But You're No Wave",
+            "artistName": "Fall Out Boy",
+            "albumName": "Infinity On High"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I've Got All This Ringing In My Ears And None On My Fingers",
+            "artistName": "Fall Out Boy",
+            "albumName": "Infinity On High"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "G.I.N.A.S.F.S.",
+            "artistName": "Fall Out Boy",
+            "albumName": "Infinity On High"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "It's Hard To Say \"I Do\", When I Don't",
+            "artistName": "Fall Out Boy",
+            "albumName": "Infinity On High"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Dance, Dance - Live From Hammersmith Palais",
+            "artistName": "Fall Out Boy",
+            "albumName": "Infinity On High"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "This Ain't A Scene, It's An Arms Race - Live From Hammersmith Palais",
+            "artistName": "Fall Out Boy",
+            "albumName": "Infinity On High"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Thriller - Live From Hammersmith Palais",
+            "artistName": "Fall Out Boy",
+            "albumName": "Infinity On High"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Our Lawyer Made Us Change The Name Of This Song So We Wouldn't Get Sued",
+            "artistName": "Fall Out Boy",
+            "albumName": "From Under The Cork Tree"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Of All The Gin Joints In All The World",
+            "artistName": "Fall Out Boy",
+            "albumName": "From Under The Cork Tree"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Dance, Dance",
+            "artistName": "Fall Out Boy",
+            "albumName": "From Under The Cork Tree"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sugar, We're Goin Down",
+            "artistName": "Fall Out Boy",
+            "albumName": "From Under The Cork Tree"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Nobody Puts Baby In The Corner",
+            "artistName": "Fall Out Boy",
+            "albumName": "From Under The Cork Tree"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I've Got A Dark Alley And A Bad Idea That Says You Should Shut Your Mouth (Summer Song)",
+            "artistName": "Fall Out Boy",
+            "albumName": "From Under The Cork Tree"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "7 Minutes In Heaven (Atavan Halen)",
+            "artistName": "Fall Out Boy",
+            "albumName": "From Under The Cork Tree"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sophomore Slump Or Comeback Of The Year",
+            "artistName": "Fall Out Boy",
+            "albumName": "From Under The Cork Tree"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Champagne For My Real Friends, Real Pain For My Sham Friends",
+            "artistName": "Fall Out Boy",
+            "albumName": "From Under The Cork Tree"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Slept With Someone In Fall Out Boy And All I Got Was This Stupid Song Written About Me",
+            "artistName": "Fall Out Boy",
+            "albumName": "From Under The Cork Tree"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "A Little Less Sixteen Candles, A Little More \"Touch Me\"",
+            "artistName": "Fall Out Boy",
+            "albumName": "From Under The Cork Tree"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Get Busy Living Or Get Busy Dying (Do Your Part To Save The Scene And Stop Going To Shows)",
+            "artistName": "Fall Out Boy",
+            "albumName": "From Under The Cork Tree"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "XO",
+            "artistName": "Fall Out Boy",
+            "albumName": "From Under The Cork Tree"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tell That Mick He Just Made My List of Things to Do Today",
+            "artistName": "Fall Out Boy",
+            "albumName": "Take This To Your Grave"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Dead on Arrival",
+            "artistName": "Fall Out Boy",
+            "albumName": "Take This To Your Grave"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Grand Theft Autumn / Where Is Your Boy",
+            "artistName": "Fall Out Boy",
+            "albumName": "Take This To Your Grave"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Saturday",
+            "artistName": "Fall Out Boy",
+            "albumName": "Take This To Your Grave"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Homesick at Space Camp",
+            "artistName": "Fall Out Boy",
+            "albumName": "Take This To Your Grave"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sending Postcards from a Plane Crash (Wish You Were Here)",
+            "artistName": "Fall Out Boy",
+            "albumName": "Take This To Your Grave"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Chicago Is so Two Years Ago",
+            "artistName": "Fall Out Boy",
+            "albumName": "Take This To Your Grave"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Pros and Cons of Breathing",
+            "artistName": "Fall Out Boy",
+            "albumName": "Take This To Your Grave"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Grenade Jumper",
+            "artistName": "Fall Out Boy",
+            "albumName": "Take This To Your Grave"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Calm Before the Storm",
+            "artistName": "Fall Out Boy",
+            "albumName": "Take This To Your Grave"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Reinventing the Wheel to Run Myself Over",
+            "artistName": "Fall Out Boy",
+            "albumName": "Take This To Your Grave"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Patron Saint of Liars and Fakes",
+            "artistName": "Fall Out Boy",
+            "albumName": "Take This To Your Grave"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Lake Effect Kid",
+            "artistName": "Fall Out Boy",
+            "albumName": "Lake Effect Kid"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "City In A Garden",
+            "artistName": "Fall Out Boy",
+            "albumName": "Lake Effect Kid"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Super Fade",
+            "artistName": "Fall Out Boy",
+            "albumName": "Lake Effect Kid"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
+            "artistName": "Martin Garrix",
+            "albumName": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Explode",
+            "artistName": "Patrick Stump",
+            "albumName": "Soul Punk"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "This City",
+            "artistName": "Patrick Stump",
+            "albumName": "Soul Punk"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Dance Miserable",
+            "artistName": "Patrick Stump",
+            "albumName": "Soul Punk"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Spotlight (New Regrets)",
+            "artistName": "Patrick Stump",
+            "albumName": "Soul Punk"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The \"I\" In Lie",
+            "artistName": "Patrick Stump",
+            "albumName": "Soul Punk"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Run Dry (X Heart X Fingers)",
+            "artistName": "Patrick Stump",
+            "albumName": "Soul Punk"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Greed",
+            "artistName": "Patrick Stump",
+            "albumName": "Soul Punk"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Everybody Wants Somebody",
+            "artistName": "Patrick Stump",
+            "albumName": "Soul Punk"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Allie",
+            "artistName": "Patrick Stump",
+            "albumName": "Soul Punk"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Coast (It's Gonna Get Better)",
+            "artistName": "Patrick Stump",
+            "albumName": "Soul Punk"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "This City",
+            "artistName": "Patrick Stump",
+            "albumName": "Soul Punk"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bad Side Of 25",
+            "artistName": "Patrick Stump",
+            "albumName": "Soul Punk"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "People Never Done A Good Thing",
+            "artistName": "Patrick Stump",
+            "albumName": "Soul Punk"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "When I Made You Cry",
+            "artistName": "Patrick Stump",
+            "albumName": "Soul Punk"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mad At Nothing",
+            "artistName": "Patrick Stump",
+            "albumName": "Soul Punk"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Thriller",
+            "artistName": "Fall Out Boy",
+            "albumName": "Live In Phoenix"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Grand Theft Autumn / Where Is Your Boy",
+            "artistName": "Fall Out Boy",
+            "albumName": "Live In Phoenix"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sugar, We're Goin Down",
+            "artistName": "Fall Out Boy",
+            "albumName": "Live In Phoenix"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Our Lawyer Made Us Change The Name Of This Song So We Wouldn't Get Sued",
+            "artistName": "Fall Out Boy",
+            "albumName": "Live In Phoenix"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Hum Hallelujah",
+            "artistName": "Fall Out Boy",
+            "albumName": "Live In Phoenix"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tell That Mick He Just Made My List Of Things To Do Today",
+            "artistName": "Fall Out Boy",
+            "albumName": "Live In Phoenix"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I'm Like A Lawyer With The Way I'm Always Trying To Get You Off (Me & You)",
+            "artistName": "Fall Out Boy",
+            "albumName": "Live In Phoenix"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "A Little Less Sixteen Candles, A Little More \"Touch Me\"",
+            "artistName": "Fall Out Boy",
+            "albumName": "Live In Phoenix"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Beat It - Studio Version Featuring John Mayer",
+            "artistName": "Fall Out Boy",
+            "albumName": "Live In Phoenix"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Golden",
+            "artistName": "Fall Out Boy",
+            "albumName": "Live In Phoenix"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "This Ain't A Scene, It's An Arms Race",
+            "artistName": "Fall Out Boy",
+            "albumName": "Live In Phoenix"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Thnks fr th Mmrs",
+            "artistName": "Fall Out Boy",
+            "albumName": "Live In Phoenix"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "\"The Take Over, The Breaks Over\"",
+            "artistName": "Fall Out Boy",
+            "albumName": "Live In Phoenix"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Dance, Dance",
+            "artistName": "Fall Out Boy",
+            "albumName": "Live In Phoenix"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Saturday",
+            "artistName": "Fall Out Boy",
+            "albumName": "Live In Phoenix"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Daily Mix 5 - MADE FOR TRISTON:6/3/19",
+      "lastModifiedDate": "2019-06-03",
+      "items": [
+        {
+          "track": {
+            "trackName": "Sleepwalkin'",
+            "artistName": "Better Oblivion Community Center",
+            "albumName": "Better Oblivion Community Center"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I'm Not Your Hero",
+            "artistName": "Tegan and Sara",
+            "albumName": "Heartthrob"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Possibility",
+            "artistName": "Various Artists",
+            "albumName": "The Twilight Saga: New Moon (Original Motion Picture Soundtrack)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Not Abel",
+            "artistName": "Hop Along",
+            "albumName": "Bark Your Head Off, Dog"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Dressed to Suppress",
+            "artistName": "Metric",
+            "albumName": "Art of Doubt"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Symphonia IX (My Wait Is U)",
+            "artistName": "Grimes",
+            "albumName": "Visions"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Portions for Foxes",
+            "artistName": "Rilo Kiley",
+            "albumName": "More Adventurous"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Every Time the Sun Comes Up",
+            "artistName": "Sharon Van Etten",
+            "albumName": "Are We There"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tongue Tied",
+            "artistName": "Grouplove",
+            "albumName": "Never Trust A Happy Song"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Edit",
+            "artistName": "Regina Spektor",
+            "albumName": "Begin To Hope"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Anthems For A Seventeen Year-Old Girl",
+            "artistName": "Broken Social Scene",
+            "albumName": "You Forgot It In People"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Not In Love - Radio Version",
+            "artistName": "Crystal Castles",
+            "albumName": "(II)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Your Type",
+            "artistName": "Alvvays",
+            "albumName": "Antisocialites"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Don't Wanna Be Funny Anymore",
+            "artistName": "Lucy Dacus",
+            "albumName": "No Burden"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "A Song for the Birds",
+            "artistName": "Eisley",
+            "albumName": "I'm Only Dreaming"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Daily Mix 2 - MADE FOR TRISTON:6/3/19",
+      "lastModifiedDate": "2019-06-03",
+      "items": [
+        {
+          "track": {
+            "trackName": "The Only Exception",
+            "artistName": "Paramore",
+            "albumName": "brand new eyes"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Trade Mistakes",
+            "artistName": "Panic! At The Disco",
+            "albumName": "Vices & Virtues"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Don't Love You",
+            "artistName": "My Chemical Romance",
+            "albumName": "The Black Parade"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Everything I Own Fits In This Backpack",
+            "artistName": "The Wonder Years",
+            "albumName": "The Upsides (Deluxe Edition)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Anthem",
+            "artistName": "Good Charlotte",
+            "albumName": "The Young and The Hopeless"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Great Escape",
+            "artistName": "Boys Like Girls",
+            "albumName": "Boys Like Girls"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "City In A Garden",
+            "artistName": "Fall Out Boy",
+            "albumName": "Lake Effect Kid"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Aliens Exist",
+            "artistName": "blink-182",
+            "albumName": "Enema Of The State"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "We All Float Down Here",
+            "artistName": "Four Year Strong",
+            "albumName": "Four Year Strong"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "House On Fire",
+            "artistName": "Rise Against",
+            "albumName": "Wolves"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Curse of Curves",
+            "artistName": "Cute Is What We Aim For",
+            "albumName": "The Same Old Blood Rush With A New Touch"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Check Yes, Juliet",
+            "artistName": "We The Kings",
+            "albumName": "We The Kings"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Passion For Publication",
+            "artistName": "Anarbor",
+            "albumName": "Free Your Mind"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Memory",
+            "artistName": "Sugarcult",
+            "albumName": "Palm Trees and Power Lines"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "When I Come Around",
+            "artistName": "Green Day",
+            "albumName": "Dookie"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "gentle",
+      "lastModifiedDate": "2019-05-23",
+      "items": [
+        {
+          "track": {
+            "trackName": "say anything",
+            "artistName": "girl in red",
+            "albumName": "say anything"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sophie",
+            "artistName": "The Altogether",
+            "albumName": "Look Up"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Falling in Love at a Coffee Shop",
+            "artistName": "Landon Pigg",
+            "albumName": "The Boy Who Never"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Falling for U",
+            "artistName": "Peachy!",
+            "albumName": "Falling for U"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Would You Be So Kind",
+            "artistName": "dodie",
+            "albumName": "You - EP"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Fantasy",
+            "artistName": "Alina Baraz",
+            "albumName": "Urban Flora"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Symphonia IX",
+            "artistName": "Current Joys",
+            "albumName": "Wild Heart"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Eastside (with Halsey & Khalid)",
+            "artistName": "benny blanco",
+            "albumName": "Eastside (with Halsey & Khalid)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "come out and play",
+            "artistName": "Billie Eilish",
+            "albumName": "come out and play"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Cut My Hair",
+            "artistName": "Mounika.",
+            "albumName": "How Are You"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "TikTok Songs",
+      "lastModifiedDate": "2019-06-10",
+      "items": [
+        {
+          "track": {
+            "trackName": "Buttercup",
+            "artistName": "Jack Stauber",
+            "albumName": "Pop Food"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Alien Boy",
+            "artistName": "Oliver Tree",
+            "albumName": "Alien Boy EP"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Fine!",
+            "artistName": "Mal Blum",
+            "albumName": "Every Time You Go Somewhere"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Falling for U",
+            "artistName": "Peachy!",
+            "albumName": "Falling for U"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Don't Lose Ur Head",
+            "artistName": "Six",
+            "albumName": "Six: The Musical (Studio Cast Recording)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "8",
+            "artistName": "Billie Eilish",
+            "albumName": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Cut My Hair",
+            "artistName": "Mounika.",
+            "albumName": "How Are You"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "prom dress",
+            "artistName": "mxmtoon",
+            "albumName": "prom dress"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Dissolve",
+            "artistName": "Absofacto",
+            "albumName": "Thousand Peaces"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "venus in aquarius",
+      "lastModifiedDate": "2019-04-04",
+      "items": [
+        {
+          "track": {
+            "trackName": "It's Hard To Say \"I Do\", When I Don't",
+            "artistName": "Fall Out Boy",
+            "albumName": "Infinity On High"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "So Nice So Smart",
+            "artistName": "Kimya Dawson",
+            "albumName": "Knock-Knock Who?"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Anthems For A Seventeen Year-Old Girl",
+            "artistName": "Various Artists",
+            "albumName": "Scott Pilgrim vs. the World (Original Motion Picture Soundtrack)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I See Red",
+            "artistName": "Uh Huh Her",
+            "albumName": "I See Red"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Could Say",
+            "artistName": "Lily Allen",
+            "albumName": "It's Not Me, It's You"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Habits (Stay High) - Hippie Sabotage Remix",
+            "artistName": "Tove Lo",
+            "albumName": "Queen Of The Clouds"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Next Year",
+            "artistName": "Two Door Cinema Club",
+            "albumName": "Beacon"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Crush",
+            "artistName": "Tessa Violet",
+            "albumName": "Crush"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "First Love / Late Spring",
+            "artistName": "Mitski",
+            "albumName": "Bury Me At Makeout Creek"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Not In Love - Radio Version",
+            "artistName": "Crystal Castles",
+            "albumName": "(II)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "It Hurts Until It Doesn't",
+            "artistName": "Mothers",
+            "albumName": "When You Walk A Long Distance You Are Tired"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I'm a Ruin",
+            "artistName": "MARINA",
+            "albumName": "FROOT"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Portions for Foxes",
+            "artistName": "Rilo Kiley",
+            "albumName": "More Adventurous"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Only Exception",
+            "artistName": "Paramore",
+            "albumName": "brand new eyes"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bad At Love",
+            "artistName": "Halsey",
+            "albumName": "hopeless fountain kingdom"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Hurricane",
+            "artistName": "Halsey",
+            "albumName": "Room 93"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Oh No!",
+            "artistName": "MARINA",
+            "albumName": "The Family Jewels"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Power & Control",
+            "artistName": "MARINA",
+            "albumName": "Electra Heart"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Radioactive",
+            "artistName": "MARINA",
+            "albumName": "Electra Heart"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Not A Love Song",
+            "artistName": "Uh Huh Her",
+            "albumName": "Common Reaction"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Something Good",
+            "artistName": "alt-J",
+            "albumName": "An Awesome Wave"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Playing God",
+            "artistName": "Paramore",
+            "albumName": "brand new eyes"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Strange Love",
+            "artistName": "Halsey",
+            "albumName": "BADLANDS"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Daddy Issues",
+            "artistName": "The Neighbourhood",
+            "albumName": "Wiped Out!"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Foundations - Full Version",
+            "artistName": "Kate Nash",
+            "albumName": "Made of Bricks"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Can Do Better",
+            "artistName": "Avril Lavigne",
+            "albumName": "The Best Damn Thing"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "broken",
+            "artistName": "lovelytheband",
+            "albumName": "broken"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Don't Like Who I Was Then",
+            "artistName": "The Wonder Years",
+            "albumName": "No Closer To Heaven"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Cut Yr Teeth",
+            "artistName": "Kississippi",
+            "albumName": "Sunset Blush"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Talia",
+            "artistName": "King Princess",
+            "albumName": "Talia"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Play Date",
+            "artistName": "Melanie Martinez",
+            "albumName": "Cry Baby"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "That's What You Get",
+            "artistName": "Paramore",
+            "albumName": "RIOT!"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Full Control",
+            "artistName": "Snail Mail",
+            "albumName": "Lush"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "writing",
+      "lastModifiedDate": "2019-02-24",
+      "items": [
+        {
+          "track": {
+            "trackName": "Fading",
+            "artistName": "Vallis Alps",
+            "albumName": "Fading"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Without Me",
+            "artistName": "Halsey",
+            "albumName": "Without Me"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Plan (Fuck Jobs)",
+            "artistName": "The Front Bottoms",
+            "albumName": "Back On Top"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Only Boyfriend",
+            "artistName": "Brendan Maclean",
+            "albumName": "Thought I'd Cry for You Forever"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Portions for Foxes",
+            "artistName": "Rilo Kiley",
+            "albumName": "More Adventurous"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Moonshot",
+            "artistName": "Ghost of the Robot",
+            "albumName": "Murphy's Law"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "First Love / Late Spring",
+            "artistName": "Mitski",
+            "albumName": "Bury Me At Makeout Creek"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Just Like Heaven",
+            "artistName": "The Cure",
+            "albumName": "Kiss Me, Kiss Me, Kiss Me"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "dronking at 3am",
+      "lastModifiedDate": "2019-04-03",
+      "items": [
+        {
+          "track": {
+            "trackName": "bellyache",
+            "artistName": "Billie Eilish",
+            "albumName": "Bellyache"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Eastside (with Halsey & Khalid)",
+            "artistName": "benny blanco",
+            "albumName": "Eastside (with Halsey & Khalid)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Him & I",
+            "artistName": "G-Eazy",
+            "albumName": "Him & I"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Now Or Never",
+            "artistName": "Halsey",
+            "albumName": "hopeless fountain kingdom"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Alone",
+            "artistName": "Halsey",
+            "albumName": "hopeless fountain kingdom"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Nobody",
+            "artistName": "Mitski",
+            "albumName": "Be the Cowboy"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Francis Forever",
+            "artistName": "Mitski",
+            "albumName": "Bury Me At Makeout Creek"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "First Love / Late Spring",
+            "artistName": "Mitski",
+            "albumName": "Bury Me At Makeout Creek"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "It Hurts Until It Doesn't",
+            "artistName": "Mothers",
+            "albumName": "When You Walk A Long Distance You Are Tired"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Korean Food",
+            "artistName": "Frankie Cosmos",
+            "albumName": "Fit Me In"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Young",
+            "artistName": "Frankie Cosmos",
+            "albumName": "Fit Me In"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Cinnamon",
+            "artistName": "Palehound",
+            "albumName": "Dry Food"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "watch you sleep.",
+            "artistName": "girl in red",
+            "albumName": "watch you sleep."
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Anthems For A Seventeen Year-Old Girl",
+            "artistName": "Various Artists",
+            "albumName": "Scott Pilgrim vs. the World (Original Motion Picture Soundtrack)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Hello?",
+            "artistName": "Clairo",
+            "albumName": "diary 001"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sick of Losing Soulmates",
+            "artistName": "dodie",
+            "albumName": "Sick of Losing Soulmates"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Young And Beautiful",
+            "artistName": "Lana Del Rey",
+            "albumName": "Young And Beautiful"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Video Games - Remastered",
+            "artistName": "Lana Del Rey",
+            "albumName": "Born To Die - The Paradise Edition"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "National Anthem",
+            "artistName": "Lana Del Rey",
+            "albumName": "Born To Die - The Paradise Edition"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The State of Dreaming",
+            "artistName": "MARINA",
+            "albumName": "Electra Heart"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Power & Control",
+            "artistName": "MARINA",
+            "albumName": "Electra Heart"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sex Yeah",
+            "artistName": "MARINA",
+            "albumName": "Electra Heart"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I'm a Ruin",
+            "artistName": "MARINA",
+            "albumName": "FROOT"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "400 Lux",
+            "artistName": "Lorde",
+            "albumName": "Pure Heroine"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ribs",
+            "artistName": "Lorde",
+            "albumName": "Pure Heroine"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "A World Alone",
+            "artistName": "Lorde",
+            "albumName": "Pure Heroine"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Closer",
+            "artistName": "Tegan and Sara",
+            "albumName": "Heartthrob"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Drove Me Wild",
+            "artistName": "Tegan and Sara",
+            "albumName": "Heartthrob"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Still into You",
+            "artistName": "Paramore",
+            "albumName": "Paramore"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Only Exception",
+            "artistName": "Paramore",
+            "albumName": "brand new eyes"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Symphonia IX",
+            "artistName": "Current Joys",
+            "albumName": "Wild Heart"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Symphonia IX (My Wait Is U)",
+            "artistName": "Grimes",
+            "albumName": "Visions"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "my god im so lonely",
+      "lastModifiedDate": "2019-01-11",
+      "items": [
+        {
+          "track": {
+            "trackName": "Nobody",
+            "artistName": "Mitski",
+            "albumName": "Be the Cowboy"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Little Gay",
+      "lastModifiedDate": "2019-02-21",
+      "items": [
+        {
+          "track": {
+            "trackName": "Santa Monica",
+            "artistName": "The Front Bottoms",
+            "albumName": "Talon Of The Hawk"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bad At Love",
+            "artistName": "Halsey",
+            "albumName": "hopeless fountain kingdom"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "thank u, next",
+            "artistName": "Ariana Grande",
+            "albumName": "thank u, next"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Eastside (with Halsey & Khalid)",
+            "artistName": "benny blanco",
+            "albumName": "Eastside (with Halsey & Khalid)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Jet Fuel Can't Melt Steel Beams",
+            "artistName": "Camp Cope",
+            "albumName": "Camp Cope"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Back To You - From 13 Reasons Why – Season 2 Soundtrack",
+            "artistName": "Selena Gomez",
+            "albumName": "Back To You"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Roman Holiday",
+            "artistName": "Halsey",
+            "albumName": "BADLANDS"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Funny You Should Ask",
+            "artistName": "The Front Bottoms",
+            "albumName": "Talon Of The Hawk"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sick of Losing Soulmates",
+            "artistName": "dodie",
+            "albumName": "Intertwined - EP"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Harvard",
+            "artistName": "Diet Cig",
+            "albumName": "Over Easy"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Satisfied (feat. Miguel & Queen Latifah)",
+            "artistName": "Various Artists",
+            "albumName": "The Hamilton Mixtape"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Young",
+            "artistName": "Frankie Cosmos",
+            "albumName": "Fit Me In"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Portions for Foxes",
+            "artistName": "Rilo Kiley",
+            "albumName": "More Adventurous"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Tara Brach Meditation",
+      "lastModifiedDate": "2018-09-11",
+      "items": [
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Sappy",
+      "lastModifiedDate": "2018-09-18",
+      "items": [
+        {
+          "track": {
+            "trackName": "By Your Side",
+            "artistName": "Various Artists",
+            "albumName": "Scott Pilgrim vs. the World (Original Motion Picture Soundtrack)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Fall of Night",
+            "artistName": "Ghost of the Robot",
+            "albumName": "Pair of Bulls, Vol. 1"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Moonshot",
+            "artistName": "Ghost of the Robot",
+            "albumName": "Murphy's Law"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Call It What You Want",
+            "artistName": "Taylor Swift",
+            "albumName": "reputation"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Caught Up In You",
+            "artistName": "38 Special",
+            "albumName": "Special Forces"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Who'd Have Known",
+            "artistName": "Lily Allen",
+            "albumName": "It's Not Me, It's You"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Somewhere Only We Know",
+            "artistName": "Keane",
+            "albumName": "Hopes And Fears"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Rocket Man",
+            "artistName": "Ninja Sex Party",
+            "albumName": "Under the Covers, Vol. II"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Wish You Were Here",
+            "artistName": "Ninja Sex Party",
+            "albumName": "Under the Covers"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sea of Love",
+            "artistName": "Cat Power",
+            "albumName": "The Covers Record"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Your Arms Around Me",
+            "artistName": "Jens Lekman",
+            "albumName": "Night Falls Over Kortedala"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Young And Beautiful",
+            "artistName": "Lana Del Rey",
+            "albumName": "Young And Beautiful"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Video Games - Remastered",
+            "artistName": "Lana Del Rey",
+            "albumName": "Born To Die"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Him & I (with Halsey)",
+            "artistName": "G-Eazy",
+            "albumName": "The Beautiful & Damned"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Skinny Love",
+            "artistName": "Bon Iver",
+            "albumName": "For Emma, Forever Ago"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "First Day Of My Life",
+            "artistName": "Bright Eyes",
+            "albumName": "I'm Wide Awake, It's Morning"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Finding You",
+            "artistName": "Kesha",
+            "albumName": "Rainbow"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "songs that make me feel less awful;",
+      "lastModifiedDate": "2018-09-18",
+      "items": [
+        {
+          "track": {
+            "trackName": "We Do Not Belong",
+            "artistName": "Psychic Friend",
+            "albumName": "My Rocks Are Dreams"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Girls Like Girls",
+            "artistName": "Hayley Kiyoko",
+            "albumName": "This Side of Paradise - EP"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "What You Know",
+            "artistName": "Two Door Cinema Club",
+            "albumName": "Tourist History"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sweater Weather",
+            "artistName": "The Neighbourhood",
+            "albumName": "I Love You."
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Out of My League",
+            "artistName": "Fitz and The Tantrums",
+            "albumName": "Out Of My League"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "BWU",
+            "artistName": "Tegan and Sara",
+            "albumName": "Love You to Death"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I'm Not Your Hero",
+            "artistName": "Tegan and Sara",
+            "albumName": "Heartthrob"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Somebody Else",
+            "artistName": "The 1975",
+            "albumName": "I like it when you sleep, for you are so beautiful yet so unaware of it"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Daylight",
+            "artistName": "Maroon 5",
+            "albumName": "Overexposed"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Liked from Radio",
+      "lastModifiedDate": "2019-05-18",
+      "items": [
+        {
+          "track": {
+            "trackName": "Only in My Dreams",
+            "artistName": "The Marías",
+            "albumName": "Superclean, Vol. I"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Talia",
+            "artistName": "King Princess",
+            "albumName": "Talia"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Talk to Me",
+            "artistName": "Cavetown",
+            "albumName": "Dear."
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Dreams - Recorded at Spotify Studios NYC",
+            "artistName": "Japanese Breakfast",
+            "albumName": "Spotify Singles"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Horseshoe Crabs",
+            "artistName": "Hop Along",
+            "albumName": "Painted Shut"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Put Your Money on Me",
+            "artistName": "Arcade Fire",
+            "albumName": "Everything Now"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "15 Step",
+            "artistName": "Radiohead",
+            "albumName": "In Rainbows"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Beater",
+            "artistName": "Marietta",
+            "albumName": "As It Were"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ram",
+            "artistName": "Great Grandpa",
+            "albumName": "Can Opener"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "How Simple",
+            "artistName": "Hop Along",
+            "albumName": "Bark Your Head Off, Dog"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Flannel",
+            "artistName": "The Cardboard Swords",
+            "albumName": "Remnants"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Fool",
+            "artistName": "Frankie Cosmos",
+            "albumName": "Next Thing"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "How Simple",
+            "artistName": "Hop Along",
+            "albumName": "Bark Your Head Off, Dog"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "French Navy",
+            "artistName": "Camera Obscura",
+            "albumName": "My Maudlin Career"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Asking 4 a Friend",
+            "artistName": "Anna Burch",
+            "albumName": "Quit the Curse"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Think You're Alright",
+            "artistName": "Jay Som",
+            "albumName": "I Think You're Alright"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Full Control",
+            "artistName": "Snail Mail",
+            "albumName": "Lush"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Feeling Ok",
+            "artistName": "Best Coast",
+            "albumName": "California Nights"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "summer depression",
+            "artistName": "girl in red",
+            "albumName": "summer depression"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "B.O.M.D.",
+            "artistName": "Clairo",
+            "albumName": "diary 001"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "4EVER",
+            "artistName": "Clairo",
+            "albumName": "4EVER"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "girls",
+            "artistName": "girl in red",
+            "albumName": "girls"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Cut Yr Teeth",
+            "artistName": "Kississippi",
+            "albumName": "Sunset Blush"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Cake",
+            "artistName": "emune",
+            "albumName": "1993"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "promise [interlude]",
+            "artistName": "Nohidea",
+            "albumName": "home movies"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Un jour viendra",
+            "artistName": "Yelle",
+            "albumName": "Complètement fou"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Friday Night Gurus",
+            "artistName": "Studio Killers",
+            "albumName": "Studio Killers"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "The good ones",
+      "lastModifiedDate": "2018-09-18",
+      "items": [
+        {
+          "track": {
+            "trackName": "100 Letters",
+            "artistName": "Halsey",
+            "albumName": "hopeless fountain kingdom"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Now Or Never",
+            "artistName": "Halsey",
+            "albumName": "hopeless fountain kingdom"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bad At Love",
+            "artistName": "Halsey",
+            "albumName": "hopeless fountain kingdom"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Strangers",
+            "artistName": "Halsey",
+            "albumName": "hopeless fountain kingdom"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "emo shit",
+      "lastModifiedDate": "2018-11-28",
+      "items": [
+        {
+          "track": {
+            "trackName": "100 Letters",
+            "artistName": "Halsey",
+            "albumName": "hopeless fountain kingdom"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Strangers",
+            "artistName": "Halsey",
+            "albumName": "hopeless fountain kingdom"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Colors",
+            "artistName": "Halsey",
+            "albumName": "BADLANDS"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ghost",
+            "artistName": "Halsey",
+            "albumName": "BADLANDS"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Hurricane",
+            "artistName": "Halsey",
+            "albumName": "BADLANDS"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "This Is What Makes Us Girls",
+            "artistName": "Lana Del Rey",
+            "albumName": "Born To Die - The Paradise Edition"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Gods & Monsters",
+            "artistName": "Lana Del Rey",
+            "albumName": "Born To Die - The Paradise Edition"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Diet Mountain Dew",
+            "artistName": "Lana Del Rey",
+            "albumName": "Born To Die"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Collar Full",
+            "artistName": "Panic! At The Disco",
+            "albumName": "Too Weird To Live, Too Rare To Die!"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ready to Go (Get Me Out of My Mind)",
+            "artistName": "Panic! At The Disco",
+            "albumName": "Vices & Virtues"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Daddy Issues",
+            "artistName": "The Neighbourhood",
+            "albumName": "Wiped Out!"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Afraid",
+            "artistName": "The Neighbourhood",
+            "albumName": "I Love You."
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "A Little Death",
+            "artistName": "The Neighbourhood",
+            "albumName": "Thank You,"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "La Familia (Guy Sigsworth)",
+            "artistName": "Mirah",
+            "albumName": "Joyride: Remixes"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Foundations - Full Version",
+            "artistName": "Kate Nash",
+            "albumName": "Made of Bricks"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mouthwash",
+            "artistName": "Kate Nash",
+            "albumName": "Made of Bricks"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Complicated",
+            "artistName": "Avril Lavigne",
+            "albumName": "Let Go"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Can Do Better",
+            "artistName": "Avril Lavigne",
+            "albumName": "The Best Damn Thing"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Contagious",
+            "artistName": "Avril Lavigne",
+            "albumName": "The Best Damn Thing"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "He Wasn't",
+            "artistName": "Avril Lavigne",
+            "albumName": "Under My Skin"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Fall To Pieces",
+            "artistName": "Avril Lavigne",
+            "albumName": "Under My Skin"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Puzzle Pieces",
+            "artistName": "Saint Motel",
+            "albumName": "Voyeur"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "how unromatic",
+      "lastModifiedDate": "2018-09-18",
+      "items": [
+        {
+          "track": {
+            "trackName": "Bad At Love",
+            "artistName": "Halsey",
+            "albumName": "hopeless fountain kingdom"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Not In Love - Radio Version",
+            "artistName": "Crystal Castles",
+            "albumName": "(II)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I'm a Ruin",
+            "artistName": "MARINA",
+            "albumName": "FROOT"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "It's Alright (NGHTMRE Remix) [feat. Liz Kellerman]",
+            "artistName": "Tep No",
+            "albumName": "It's Alright (NGHTMRE Remix) [feat. Liz Kellerman]"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "It's Hard To Say \"I Do\", When I Don't",
+            "artistName": "Fall Out Boy",
+            "albumName": "Infinity On High"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Fourth Of July",
+            "artistName": "Fall Out Boy",
+            "albumName": "American Beauty/American Psycho"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "She Had The World",
+            "artistName": "Panic! At The Disco",
+            "albumName": "Pretty. Odd."
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Run for Your Life",
+            "artistName": "The Fray",
+            "albumName": "Scars & Stories"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "4ever",
+            "artistName": "The Veronicas",
+            "albumName": "The Secret Life Of..."
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "big gay",
+      "lastModifiedDate": "2018-12-20",
+      "items": [
+        {
+          "track": {
+            "trackName": "I Could've Been Your Girl",
+            "artistName": "She & Him",
+            "albumName": "Volume 3"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Astronaut",
+            "artistName": "Amanda Palmer",
+            "albumName": "Who Killed Amanda Palmer"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Collide",
+            "artistName": "Howie Day",
+            "albumName": "Stop All The World Now"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Us",
+            "artistName": "Regina Spektor",
+            "albumName": "Soviet Kitsch"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Somewhere Only We Know",
+            "artistName": "Keane",
+            "albumName": "Hopes And Fears"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Fantasy",
+            "artistName": "Alina Baraz",
+            "albumName": "Urban Flora"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Hello?",
+            "artistName": "Clairo",
+            "albumName": "diary 001"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Francis Forever",
+            "artistName": "Mitski",
+            "albumName": "Bury Me At Makeout Creek"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Stay Ready (What A Life)",
+            "artistName": "Jhene Aiko",
+            "albumName": "Sail Out"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Make You Feel",
+            "artistName": "Alina Baraz",
+            "albumName": "Urban Flora"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Crave You - Adventure Club Remix",
+            "artistName": "Flight Facilities",
+            "albumName": "Crave You (Remixes)"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "French Navy",
+            "artistName": "Camera Obscura",
+            "albumName": "My Maudlin Career"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Big Spender (feat. Prince Charlez)",
+            "artistName": "Various Artists",
+            "albumName": "Fifty Shades Freed"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Stay with Me",
+            "artistName": "Christina Grimmie",
+            "albumName": "Stay with Me"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Playing God",
+            "artistName": "Paramore",
+            "albumName": "brand new eyes"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Puzzle Pieces",
+            "artistName": "Saint Motel",
+            "albumName": "Voyeur"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sublime",
+            "artistName": "Christina Grimmie",
+            "albumName": "All Is Vanity"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Speaking Terms",
+            "artistName": "Snail Mail",
+            "albumName": "Lush"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Full Control",
+            "artistName": "Snail Mail",
+            "albumName": "Lush"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "City In A Garden",
+            "artistName": "Fall Out Boy",
+            "albumName": "Lake Effect Kid"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Without Me",
+            "artistName": "Halsey",
+            "albumName": "Without Me"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Love Of My Life - Remastered 2011",
+            "artistName": "Queen",
+            "albumName": "A Night At The Opera"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Electric Love - Oliver Remix",
+            "artistName": "BØRNS",
+            "albumName": "Electric Love"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "thank u, next",
+            "artistName": "Ariana Grande",
+            "albumName": "thank u, next"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Radio Ga Ga - Live Aid",
+            "artistName": "Queen",
+            "albumName": "Bohemian Rhapsody"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Want To Break Free",
+            "artistName": "Queen",
+            "albumName": "Bohemian Rhapsody"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Just A Dream",
+            "artistName": "Kurt Hugo Schneider",
+            "albumName": "Just A Dream"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Without Him",
+            "artistName": "Christina Grimmie",
+            "albumName": "Side A"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tell My Mama",
+            "artistName": "Christina Grimmie",
+            "albumName": "With Love"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "My Anthem (Bonus Track)",
+            "artistName": "Christina Grimmie",
+            "albumName": "With Love"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Strange Love",
+            "artistName": "Halsey",
+            "albumName": "BADLANDS"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "California Friends",
+            "artistName": "The Regrettes",
+            "albumName": "California Friends"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Moonshot",
+            "artistName": "Ghost of the Robot",
+            "albumName": "Murphy's Law"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Pussy Is God",
+            "artistName": "King Princess",
+            "albumName": "Pussy Is God"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bad Liar",
+            "artistName": "Selena Gomez",
+            "albumName": "Bad Liar"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Lake Effect Kid",
+            "artistName": "Fall Out Boy",
+            "albumName": "Lake Effect Kid"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Pristine",
+            "artistName": "Snail Mail",
+            "albumName": "Lush"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Nobody",
+            "artistName": "Mitski",
+            "albumName": "Be the Cowboy"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": "songs about being in love with a god",
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "chillin",
+      "lastModifiedDate": "2018-09-18",
+      "items": [
+        {
+          "track": {
+            "trackName": "Your Arms Around Me",
+            "artistName": "Jens Lekman",
+            "albumName": "Night Falls Over Kortedala"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Tire Swing",
+      "lastModifiedDate": "2018-09-18",
+      "items": [
+        {
+          "track": {
+            "trackName": "Tire Swing",
+            "artistName": "Kimya Dawson",
+            "albumName": "Remember That I Love You"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Loose Lips",
+            "artistName": "Kimya Dawson",
+            "albumName": "Remember That I Love You"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "So Nice So Smart",
+            "artistName": "Various Artists",
+            "albumName": "Juno - Music From The Motion Picture"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "My Rollercoaster [Juno Film Version]",
+            "artistName": "Various Artists",
+            "albumName": "Juno - Music From The Motion Picture"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "TuneZzzz",
+      "lastModifiedDate": "2018-09-18",
+      "items": [
+        {
+          "track": {
+            "trackName": "It's Alright (NGHTMRE Remix) [feat. Liz Kellerman]",
+            "artistName": "Tep No",
+            "albumName": "It's Alright (NGHTMRE Remix) [feat. Liz Kellerman]"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Between Two Points (feat. Swan)",
+            "artistName": "The Glitch Mob",
+            "albumName": "Drink The Sea"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Not In Love",
+            "artistName": "Crystal Castles",
+            "albumName": "Not In Love feat. Robert Smith"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Realiti",
+            "artistName": "Grimes",
+            "albumName": "Art Angels"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Neverland - Mitis Remix",
+            "artistName": "Crywolf",
+            "albumName": "Dysphoria B Sides"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Want U - GANZ Flip",
+            "artistName": "Alison Wonderland",
+            "albumName": "Run"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Habits (Stay High) - Hippie Sabotage Remix",
+            "artistName": "Tove Lo",
+            "albumName": "Queen Of The Clouds"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Windows Media Player",
+      "lastModifiedDate": null,
+      "items": [
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "iTunes",
+      "lastModifiedDate": null,
+      "items": [
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    }
+  ]
+}
